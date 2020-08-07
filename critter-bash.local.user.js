@@ -16,7 +16,7 @@
 // @match        https://boxcritters.com/play/index.html?*
 // @match        https://boxcritters.com/play/index.html#*
 // ==/UserScript==
-cardboard.register("MinGJ");
+cardboard.register("CritterBash");
 console.log(EventHandler);
 console.log(cardboard)
 
