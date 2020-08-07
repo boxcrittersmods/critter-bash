@@ -37,8 +37,7 @@ cardboard.on("worldCreated", (world) => {
 });
 
 cardboard.on("login", (world) => {
-	MinGJ.home[world.player.nickname] = {};
-	console.log(`\n${location.hostname} login: ${world.player.nickname}`)
+	MGJLogin(world.player.nickname);
 })
 
 var onEvt = cardboard.on.bind(cardboard);
