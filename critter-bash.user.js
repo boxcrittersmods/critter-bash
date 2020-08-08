@@ -2,7 +2,7 @@
 // @name Critter Bash
 // @description  Useless Kernel
 // @author       Tumble
-// @version      0.0.1.1
+// @version      0.1.0.5
 // @run-at       document-start
 // @require      https://github.com/SArpnt/joinFunction/raw/master/script.js
 // @require      https://github.com/SArpnt/EventHandler/raw/master/script.js
